@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Preference screen-->
+    <string name="notification_theme">સૂચના થીમ</string>
+
+    <string name="profile_pic">પ્રોફાઇલ ચિત્ર પસંદ કરો</string>
+
+    <string name="title_default_color">બૈક્ગ્રાઉન્ડ રંગ</string>
+    <string name="title_transparency_color">પારદર્શિતા રકમ</string>
+    <string name="title_fg_color">સક્રિય ટાઇલ રંગ</string>
+    <string name="title_brightness_color">તેજ સ્લાઇડર રંગ</string>
+
+    <string name="title_grid_column">ગ્રીડ સ્તંભોને</string>
+    <string name="sum_grid_column">સ્તંભોને સંખ્યા સેટ કરો</string>
+
+    <string name="title_grid_row">ગ્રીડ પંક્તિઓ</string>
+    <string name="sum_grid_row">પંક્તિઓની સંખ્યા સેટ કરો</string>
+
+    <string name="title_header_num">હેડર ટાઇલ્સની સંખ્યા</string>
+    <string name="sum_header_num">તમે તમારા પ્રથમ સ્વાઇપ પર જોયેલી ટાઇલ્સની સંખ્યા સેટ કરો</string>
+
+    <string name="title_max_children">મેક્સ જૂથબદ્ધ સૂચનાઓ</string>
+    <string name="sum_max_children">જૂથમાં મંજૂરીની મહત્તમ સૂચનાઓ(મૂળભૂત આઠ)</string>
+    <string name="title_notifications_background">સૂચનાઓ બૈક્ગ્રાઉન્ડરંગ/string>
+    <string name="title_transparent_notifications">પારદર્શક સૂચનાઓ</string>
+    <string name="title_transparent_header">પારદર્શક મથાળું</string>
+    <string name="title_reset_all_colors">બધા રંગોને  મૂળભૂત પર ફરીથી સેટ કરો</string>
+    <string name="title_custom_background">કસ્ટમ બૈક્ગ્રાઉન્ડછબી</string>
+    <string name="title_auto_expand_notifs">સૂચનાઓને સ્વત વિસ્તૃત કરો</string>
+    <string name="title_custom_carrier">કસ્ટમ વાહકનું નામ</string>
+    <string name="title_remove_fullscreen">પૂર્ણસ્ક્રીનમાં દૂર કરો</string>
+    <string name="title_use_trigger">ટ્રિગરનો ઉપયોગ કરો</string>
+    <string name="title_icon_shape">ચિહ્નો આકાર</string>
+    <string name="title_small_corners">નાના ખૂણા</string>
+    <string name="title_always_show_footer">હંમેશા ફૂટર પંક્તિ બતાવો</string>
+    <string name="title_header_items">ટોચની હેડર આઇટમ્સ</string>
+    <string name="title_brightness_at_bottom">તળિયે તેજ સ્લાઇડર</string>
+    <string name="title_brightness_in_header">હેડરમાં તેજ સ્લાઇડર</string>
+    <string name="title_brightness_thumb">તેજ સ્લાઇડર અંગૂઠો</string>
+
+    <string name="detail_heads_style">તમારી સૂચના શૈલી પસંદ કરો</string>
+
+    <string name="theme_light">પ્રકાશ</string>
+    <string name="theme_dark">અંધારિયું</string>
+    <string name="theme_dynamic">ડાઇનૈમિક રંગ</string>
+
+    <string name="header_date">તારીખ (ડાબી બાજુએ)</string>
+    <string name="header_icons">સિસ્ટમ ચિહ્નો(જમણી બાજુએ)</string>
+
+</resources>
