@@ -1,50 +1,45 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <!--Preference screen-->
-    <string name="notification_theme">Notification theme</string>
+Notification theme           
 
-    <string name="profile_pic">Choose Profile Picture</string>
+Choose Profile Picture           
 
-    <string name="title_default_color">Background color</string>
-    <string name="title_transparency_color">Transparency amount</string>
-    <string name="title_fg_color">Active tile color</string>
-    <string name="title_brightness_color">Brightness slider color</string>
+Background color           
+Transparency amount           
+Active tile color           
+Brightness slider color           
 
-    <string name="title_grid_column">Grid Columns</string>
-    <string name="sum_grid_column">Sets the number of columns</string>
+Grid Columns           
+Sets the number of columns           
 
-    <string name="title_grid_row">Grid Rows</string>
-    <string name="sum_grid_row">Sets the number of rows</string>
+Grid Rows           
+Sets the number of rows           
 
-    <string name="title_header_num">Number of header tiles</string>
-    <string name="sum_header_num">Sets the number of tiles that you see on your first swipe</string>
+Number of header tiles           
+Sets the number of tiles that you see on your first swipe           
 
-    <string name="title_max_children">Max grouped notifications</string>
-    <string name="sum_max_children">Maximum allowed notifications in a group (default of 8)</string>
-    <string name="title_notifications_background">Notifications background color</string>
-    <string name="title_transparent_notifications">Transparent notifications</string>
-    <string name="title_transparent_header">Transparent header</string>
-    <string name="title_reset_all_colors">Reset all colors to default</string>
-    <string name="title_custom_background">Custom background image</string>
-    <string name="title_auto_expand_notifs">Auto expand notifications</string>
-    <string name="title_custom_carrier">Custom carrier name</string>
-    <string name="title_remove_fullscreen">Remove in fullscreen</string>
-    <string name="title_use_trigger">Use trigger</string>
-    <string name="title_icon_shape">Icons shape</string>
-    <string name="title_small_corners">Small corners</string>
-    <string name="title_always_show_footer">Always show footer row</string>
-    <string name="title_header_items">Top header items</string>
-    <string name="title_brightness_at_bottom">Brightness slider at the bottom</string>
-    <string name="title_brightness_in_header">Brightness slider in header</string>
-    <string name="title_brightness_thumb">Brightness slider thumb</string>
+Max grouped notifications           
+Maximum allowed notifications in a group (default of 8)           
+Notifications background color           
+Transparent notifications           
+Transparent header           
+Reset all colors to default           
+Custom background image           
+Auto expand notifications           
+Custom carrier name           
+Remove in fullscreen           
+Use trigger           
+Icons shape           
+Small corners           
+Always show footer row           
+Top header items           
+Brightness slider at the bottom           
+Brightness slider in header           
+Brightness slider thumb           
 
-    <string name="detail_heads_style">Choose your notifications style</string>
+Choose your notifications style           
 
-    <string name="theme_light">Light</string>
-    <string name="theme_dark">Dark</string>
-    <string name="theme_dynamic">Dynamic Color</string>
+Light           
+Dark           
+Dynamic Color           
 
-    <string name="header_date">Date (on left)</string>
-    <string name="header_icons">System icons (on right)</string>
-
-</resources>
+Date (on left)           
+System icons (on right)           
