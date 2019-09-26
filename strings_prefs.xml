@@ -1,50 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <!--Preference screen-->
-    <string name="notification_theme">Notification theme</string>
+https://likegeeks.com/python-image-processing/
+https://github.com/vivekseth/OpenCV-Tutorials/blob/master/tutorial_1/IntroToOpenCV.ipynb
+http://www.intorobotics.com/opencv-tutorials-best-of/
 
-    <string name="profile_pic">Choose Profile Picture</string>
 
-    <string name="title_default_color">Background color</string>
-    <string name="title_transparency_color">Transparency amount</string>
-    <string name="title_fg_color">Active tile color</string>
-    <string name="title_brightness_color">Brightness slider color</string>
-
-    <string name="title_grid_column">Grid Columns</string>
-    <string name="sum_grid_column">Sets the number of columns</string>
-
-    <string name="title_grid_row">Grid Rows</string>
-    <string name="sum_grid_row">Sets the number of rows</string>
-
-    <string name="title_header_num">Number of header tiles</string>
-    <string name="sum_header_num">Sets the number of tiles that you see on your first swipe</string>
-
-    <string name="title_max_children">Max grouped notifications</string>
-    <string name="sum_max_children">Maximum allowed notifications in a group (default of 8)</string>
-    <string name="title_notifications_background">Notifications background color</string>
-    <string name="title_transparent_notifications">Transparent notifications</string>
-    <string name="title_transparent_header">Transparent header</string>
-    <string name="title_reset_all_colors">Reset all colors to default</string>
-    <string name="title_custom_background">Custom background image</string>
-    <string name="title_auto_expand_notifs">Auto expand notifications</string>
-    <string name="title_custom_carrier">Custom carrier name</string>
-    <string name="title_remove_fullscreen">Remove in fullscreen</string>
-    <string name="title_use_trigger">Use trigger</string>
-    <string name="title_icon_shape">Icons shape</string>
-    <string name="title_small_corners">Small corners</string>
-    <string name="title_always_show_footer">Always show footer row</string>
-    <string name="title_header_items">Top header items</string>
-    <string name="title_brightness_at_bottom">Brightness slider at the bottom</string>
-    <string name="title_brightness_in_header">Brightness slider in header</string>
-    <string name="title_brightness_thumb">Brightness slider thumb</string>
-
-    <string name="detail_heads_style">Choose your notifications style</string>
-
-    <string name="theme_light">Light</string>
-    <string name="theme_dark">Dark</string>
-    <string name="theme_dynamic">Dynamic Color</string>
-
-    <string name="header_date">Date (on left)</string>
-    <string name="header_icons">System icons (on right)</string>
-
-</resources>
+https://www.learnopencv.com/
